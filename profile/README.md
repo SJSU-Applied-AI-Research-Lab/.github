@@ -16,9 +16,8 @@ The Applied AI Research Lab at San José State University develops reproducible 
 - PE2Prompt
 - VisioRAG
 - TinyPulse+
-- AgentSecBench
-- Clinical Agentic AI
-
+- WellFusion
+  
 ## Lab Standard
 
 All thesis, publication, and research projects should follow the lab repository template:
